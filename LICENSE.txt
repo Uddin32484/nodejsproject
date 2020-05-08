@@ -48,7 +48,7 @@ The msinttypes r29
 
 Copyright (c) 2006-2013 Alexander Chemeris 
 
-All rights reserved.
+All rights reserved.uuu
 
 
 
